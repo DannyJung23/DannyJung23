@@ -1,7 +1,7 @@
 ### Hello World!
 
-- 👋 I'm Danny, a Software Developer who loves to solve problems with technologies
-- 💻 I'm currently working on an AI-driven Personalised Learning Roadmap web app
-- 🔍 I'm currently learning TypeScript and .NET
-- 💡 Areas of Interest : Computer Science, Mathematics, High-tech, Chess, Football
-- 📫 You can contact me via <a href="https://www.linkedin.com/in/dannyjung23/"> LinkedIn </a> or dannyjung23@gmail.com
+- 👋 I'm Danny, a Computer Science graduate, currently studying Geographic Information Science at the University of Auckland
+- 💻 I'm currently working on various Earth Observation projects using Google Earth Engine to solve real world problems
+- 🔍 I'm currently learning Remote Sensing and Machine Learning
+- 💡 Areas of Interest : Satellite Data, Earth Observation, Computer Science, Backpacking, Football, Chess
+- 📫 You can contact me via dannyjung23@gmail.com or <a href="https://www.linkedin.com/in/dannyjung23/"> LinkedIn </a>
